@@ -1,4 +1,4 @@
-# Behavior analysis
+# Behavior_analysis
 
 These are the code used for the behavior analysis in Fig.1. 
 
